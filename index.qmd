@@ -2,6 +2,7 @@
 title: "test-website"
 ---
 
-This is a Quarto website.
+This is a Quarto website published on GitHub.
 
 This is part of the Homework 1 of S&DS 6610.
+
