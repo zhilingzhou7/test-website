@@ -6,3 +6,8 @@ This is a Quarto website published on GitHub.
 
 This is part of the Homework 1 of S&DS 6610.
 
+## NBA Schedule Visualization in HW3
+
+![](img/nba_schedule_faceted.png)
+
+This figure shows the NBA schedule faceted by home and away divisions in Homework 3.
