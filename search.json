@@ -12,5 +12,12 @@
     "title": "test-website",
     "section": "",
     "text": "This is a Quarto website published on GitHub.\nThis is part of the Homework 1 of S&DS 6610."
+  },
+  {
+    "objectID": "index.html#nba-schedule-visualization-in-hw3",
+    "href": "index.html#nba-schedule-visualization-in-hw3",
+    "title": "test-website",
+    "section": "NBA Schedule Visualization in HW3",
+    "text": "NBA Schedule Visualization in HW3\n\nThis figure shows the NBA schedule faceted by home and away divisions in Homework 3."
   }
 ]
